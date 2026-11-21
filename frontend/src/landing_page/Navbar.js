@@ -48,7 +48,7 @@ function Navbar() {
                 </Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-link active" to="http://localhost:3000">
+                <Link class="nav-link active" to="https://zerodha-clone-1-y8rh.onrender.com">
                   Dashboard
                 </Link>
               </li>
